@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\BlogDeCafe"
+		},
+		{
+			"path": "..\\Downloads\\CreandoLayout\\CreandoLayout\\blogviajes - Inicio"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "BlogDeCafe"
+    }
+}
